@@ -1,0 +1,4 @@
+,algorithm,masker,fidelity,shap_exp_first,shap_exp_second_0,shap_exp_second_1
+0,auto,10,0.5,"('unrelated_column_one', 1.0)","('Nothing shown', 1.0)",
+1,auto,15,0.5,"('unrelated_column_one', 1.0)","('CLASSROOM', 0.5)","('GENDER', 0.5)"
+2,auto,20,0.5,"('unrelated_column_one', 1.0)","('CLASSROOM', 0.5)","('GENDER', 0.5)"

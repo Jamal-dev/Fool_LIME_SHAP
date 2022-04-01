@@ -1,0 +1,11 @@
+,Best Estimator,Parameters,Score,Refit time
+classifier,"Pipeline(steps=[('classifier',
+                 DecisionTreeClassifier(max_depth=10, random_state=123454321))])","DecisionTreeClassifier(max_depth=10, random_state=123454321)",1.0,0.011728525161743164
+classifier__criterion,"Pipeline(steps=[('classifier',
+                 DecisionTreeClassifier(max_depth=10, random_state=123454321))])",gini,1.0,0.011728525161743164
+classifier__max_depth,"Pipeline(steps=[('classifier',
+                 DecisionTreeClassifier(max_depth=10, random_state=123454321))])",10,1.0,0.011728525161743164
+classifier__max_features,"Pipeline(steps=[('classifier',
+                 DecisionTreeClassifier(max_depth=10, random_state=123454321))])",,1.0,0.011728525161743164
+classifier__min_samples_split,"Pipeline(steps=[('classifier',
+                 DecisionTreeClassifier(max_depth=10, random_state=123454321))])",2,1.0,0.011728525161743164
